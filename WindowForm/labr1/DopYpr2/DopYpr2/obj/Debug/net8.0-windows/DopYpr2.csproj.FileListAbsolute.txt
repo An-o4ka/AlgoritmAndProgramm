@@ -1,0 +1,17 @@
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\obj\Debug\net8.0-windows\DopYpr2.GreenForm.resources
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\obj\Debug\net8.0-windows\DopYpr2.MainForm.resources
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\obj\Debug\net8.0-windows\DopYpr2.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\obj\Debug\net8.0-windows\DopYpr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\obj\Debug\net8.0-windows\DopYpr2.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\obj\Debug\net8.0-windows\DopYpr2.AssemblyInfo.cs
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\obj\Debug\net8.0-windows\DopYpr2.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\bin\Debug\net8.0-windows\DopYpr2.exe
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\bin\Debug\net8.0-windows\DopYpr2.deps.json
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\bin\Debug\net8.0-windows\DopYpr2.runtimeconfig.json
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\bin\Debug\net8.0-windows\DopYpr2.dll
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\bin\Debug\net8.0-windows\DopYpr2.pdb
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\obj\Debug\net8.0-windows\DopYpr2.dll
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\obj\Debug\net8.0-windows\refint\DopYpr2.dll
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\obj\Debug\net8.0-windows\DopYpr2.pdb
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\obj\Debug\net8.0-windows\DopYpr2.genruntimeconfig.cache
+C:\Users\Админ\source\repos\WindowForm\labr1\DopYpr2\DopYpr2\obj\Debug\net8.0-windows\ref\DopYpr2.dll
