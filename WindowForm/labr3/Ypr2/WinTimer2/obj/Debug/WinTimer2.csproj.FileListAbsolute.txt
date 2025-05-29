@@ -1,0 +1,11 @@
+C:\Users\nikit\source\repos\WinTimer2\WinTimer2\bin\Debug\WinTimer2.exe.config
+C:\Users\nikit\source\repos\WinTimer2\WinTimer2\bin\Debug\WinTimer2.exe
+C:\Users\nikit\source\repos\WinTimer2\WinTimer2\bin\Debug\WinTimer2.pdb
+C:\Users\nikit\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.Properties.Resources.resources
+C:\Users\nikit\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.UserControlTimer2.resources
+C:\Users\nikit\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.exe
+C:\Users\nikit\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.pdb
+C:\Users\nikit\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.Form1.resources
