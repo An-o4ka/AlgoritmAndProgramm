@@ -6,7 +6,7 @@
 
 ЛИНЕЙНОЕ ПРОГРАММИРОВАНИЕ
 
-[Отчёт по линейному программированию](AlgoritmAndProgramm/Отчёты/Линейное_программирование/Линейное_Баранова.md)
+[Отчёт по линейному программированию](AlgoritmAndProgramm/Otchet/Lineinoeprogramm/LineinoeBaranova.md)
 
 ООП
 
