@@ -1,0 +1,10 @@
+C:\Users\nikit\source\repos\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+C:\Users\nikit\source\repos\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+C:\Users\nikit\source\repos\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+C:\Users\nikit\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+C:\Users\nikit\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+C:\Users\nikit\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+C:\Users\nikit\source\repos\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.pdb
