@@ -1,0 +1,14 @@
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/bin/Debug/net9.0/ConsoleApp4
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/bin/Debug/net9.0/ConsoleApp4.deps.json
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/bin/Debug/net9.0/ConsoleApp4.runtimeconfig.json
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/bin/Debug/net9.0/ConsoleApp4.dll
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/bin/Debug/net9.0/ConsoleApp4.pdb
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/obj/Debug/net9.0/ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/obj/Debug/net9.0/ConsoleApp4.AssemblyInfoInputs.cache
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/obj/Debug/net9.0/ConsoleApp4.AssemblyInfo.cs
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/obj/Debug/net9.0/ConsoleApp4.csproj.CoreCompileInputs.cache
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/obj/Debug/net9.0/ConsoleApp4.dll
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/obj/Debug/net9.0/refint/ConsoleApp4.dll
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/obj/Debug/net9.0/ConsoleApp4.pdb
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/obj/Debug/net9.0/ConsoleApp4.genruntimeconfig.cache
+/Users/An4oka/RiderProjects/ConsoleApp4/ConsoleApp4/obj/Debug/net9.0/ref/ConsoleApp4.dll

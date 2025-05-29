@@ -1,0 +1,14 @@
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3.deps.json
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3.runtimeconfig.json
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3.dll
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3.pdb
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.AssemblyInfoInputs.cache
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.AssemblyInfo.cs
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.dll
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net9.0/refint/ConsoleApp3.dll
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.pdb
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.genruntimeconfig.cache
+/Users/An4oka/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net9.0/ref/ConsoleApp3.dll
