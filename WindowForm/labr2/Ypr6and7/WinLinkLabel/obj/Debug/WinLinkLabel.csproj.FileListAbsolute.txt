@@ -1,0 +1,11 @@
+C:\Users\nikit\source\repos\WinLinkLabel\WinLinkLabel\bin\Debug\WinLinkLabel.exe.config
+C:\Users\nikit\source\repos\WinLinkLabel\WinLinkLabel\bin\Debug\WinLinkLabel.exe
+C:\Users\nikit\source\repos\WinLinkLabel\WinLinkLabel\bin\Debug\WinLinkLabel.pdb
+C:\Users\nikit\source\repos\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.Form1.resources
+C:\Users\nikit\source\repos\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.Form2.resources
+C:\Users\nikit\source\repos\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.Properties.Resources.resources
+C:\Users\nikit\source\repos\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.exe
+C:\Users\nikit\source\repos\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.pdb
