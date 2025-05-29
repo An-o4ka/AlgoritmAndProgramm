@@ -1,0 +1,10 @@
+C:\Users\nikit\source\repos\TestList\TestList\bin\Debug\TestList.exe.config
+C:\Users\nikit\source\repos\TestList\TestList\bin\Debug\TestList.exe
+C:\Users\nikit\source\repos\TestList\TestList\bin\Debug\TestList.pdb
+C:\Users\nikit\source\repos\TestList\TestList\obj\Debug\TestList.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\TestList\TestList\obj\Debug\TestList.Form1.resources
+C:\Users\nikit\source\repos\TestList\TestList\obj\Debug\TestList.Properties.Resources.resources
+C:\Users\nikit\source\repos\TestList\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\TestList\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\TestList\TestList\obj\Debug\TestList.exe
+C:\Users\nikit\source\repos\TestList\TestList\obj\Debug\TestList.pdb
